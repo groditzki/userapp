@@ -1,0 +1,10 @@
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\repository\UserRepository.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\model\User.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\config\UserServiceConfig.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\service\UserServiceImpl.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\controller\UserController.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\UserServiceApp.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\exceptions\DuplicateUserException.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\service\interfaces\UserService.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\exceptions\UserNameEmptyException.java
+C:\Users\E330\Documents\GitHub\userservice\src\main\java\com\haegerconsulting\userservice\exceptions\UserNotFoundException.java

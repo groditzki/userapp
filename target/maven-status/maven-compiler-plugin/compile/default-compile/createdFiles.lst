@@ -1,0 +1,10 @@
+com\haegerconsulting\userservice\repository\UserRepository.class
+com\haegerconsulting\userservice\service\UserServiceImpl.class
+com\haegerconsulting\userservice\exceptions\DuplicateUserException.class
+com\haegerconsulting\userservice\config\UserServiceConfig.class
+com\haegerconsulting\userservice\model\User.class
+com\haegerconsulting\userservice\exceptions\UserNotFoundException.class
+com\haegerconsulting\userservice\UserServiceApp.class
+com\haegerconsulting\userservice\controller\UserController.class
+com\haegerconsulting\userservice\exceptions\UserNameEmptyException.class
+com\haegerconsulting\userservice\service\interfaces\UserService.class

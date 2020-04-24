@@ -1,0 +1,14 @@
+Erzeugen eines Users -> Service liefert Erfolg
+Auslesen aller gespeicherten User -> Service liefert Erfolg
+Auslesen eines vorher gespeicherten Users -> Service liefert Erfolg
+Versuch, einen User mit unbekannter Id auszulesen -> Service liefert Fehlermeldung
+Löschen eines exisiterenden Users -> Service liefert Erfolg
+Löschen eines nicht exisiterenden Users -> Service liefert Fehlermeldung
+
+GET http://localhost:8989/users
+GET http://localhost:8989/users/{id}
+POST http://localhost:8989/users
+DELETE http://localhost:8989/users
+GET http://localhost:8989/searchByUserName?userName={searchString}
+
+http://localhost:8989/users
